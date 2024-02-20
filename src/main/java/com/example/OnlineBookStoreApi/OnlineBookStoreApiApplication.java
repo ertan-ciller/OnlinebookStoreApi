@@ -53,5 +53,6 @@ public class OnlineBookStoreApiApplication {
 		http.csrf().disable();
 		return http.build();
 	}
+	/*yorum satırı eklendi*/
 
 }
